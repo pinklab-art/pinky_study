@@ -1,0 +1,3 @@
+rpi-lgpio
+smbus2
+adafruit-circuitpython-ads1x15
