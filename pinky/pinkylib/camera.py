@@ -32,7 +32,7 @@ class Camera:
     def play_jupyter(self, play_time=3):
         start_time = time.time()
         while time.time() - start_time < play_time:
-            frame = self.capture_frame()
+            frame = self.get_frame()
             self.display_jupyter(frame)
     
             time.sleep(0.01)
