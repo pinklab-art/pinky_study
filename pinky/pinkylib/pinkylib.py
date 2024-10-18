@@ -118,78 +118,78 @@ class Pinky:
         if L < self.min_speed:
             raise ValueError(f"Set the speed higher than min_speed ({self.min_speed})")
         else: 
-            GPIO.output(AIN1, GPIO.LOW)
-            GPIO.output(AIN2, GPIO.HIGH)
+            GPIO.output(AIN1, GPIO.HIGH)
+            GPIO.output(AIN2, GPIO.LOW)
             self.pwm_L.ChangeDutyCycle(L)
 
         if R < self.min_speed:
             raise ValueError(f"Set the speed higher than min_speed ({self.min_speed})")
         else:    
-            GPIO.output(BIN1, GPIO.LOW)
-            GPIO.output(BIN2, GPIO.HIGH)
+            GPIO.output(BIN1, GPIO.HIGH)
+            GPIO.output(BIN2, GPIO.LOW)
             self.pwm_R.ChangeDutyCycle(R)
 
     def move_back(self, L, R):
         if L < self.min_speed:
             raise ValueError(f"Set the speed higher than min_speed ({self.min_speed})")
         else: 
-            GPIO.output(AIN1, GPIO.HIGH)
-            GPIO.output(AIN2, GPIO.LOW)
+            GPIO.output(AIN1, GPIO.LOW)
+            GPIO.output(AIN2, GPIO.HIGH)
             self.pwm_L.ChangeDutyCycle(L)
 
         if R < self.min_speed:
             raise ValueError(f"Set the speed higher than min_speed ({self.min_speed})")
         else:    
-            GPIO.output(BIN1, GPIO.HIGH)
-            GPIO.output(BIN2, GPIO.LOW)
+            GPIO.output(BIN1, GPIO.LOW)
+            GPIO.output(BIN2, GPIO.HIGH)
             self.pwm_R.ChangeDutyCycle(R)
 
     def turn_right(self, L, R):
         if L < self.min_speed:
             raise ValueError(f"Set the speed higher than min_speed ({self.min_speed})")
         else: 
-            GPIO.output(AIN1, GPIO.LOW)
-            GPIO.output(AIN2, GPIO.HIGH)
+            GPIO.output(AIN1, GPIO.HIGH)
+            GPIO.output(AIN2, GPIO.LOW)
             self.pwm_L.ChangeDutyCycle(L)
 
         if R < self.min_speed:
             raise ValueError(f"Set the speed higher than min_speed ({self.min_speed})")
         else:    
-            GPIO.output(BIN1, GPIO.HIGH)
-            GPIO.output(BIN2, GPIO.LOW)
+            GPIO.output(BIN1, GPIO.LOW)
+            GPIO.output(BIN2, GPIO.HIGH)
             self.pwm_R.ChangeDutyCycle(R)
 
     def turn_left(self, L, R):
         if L < self.min_speed:
             raise ValueError(f"Set the speed higher than min_speed ({self.min_speed})")
         else: 
-            GPIO.output(AIN1, GPIO.HIGH)
-            GPIO.output(AIN2, GPIO.LOW)
+            GPIO.output(AIN1, GPIO.LOW)
+            GPIO.output(AIN2, GPIO.HIGH)
             self.pwm_L.ChangeDutyCycle(L)
 
         if R < self.min_speed:
             raise ValueError(f"Set the speed higher than min_speed ({self.min_speed})")
         else:    
-            GPIO.output(BIN1, GPIO.LOW)
-            GPIO.output(BIN2, GPIO.HIGH)
+            GPIO.output(BIN1, GPIO.HIGH)
+            GPIO.output(BIN2, GPIO.LOW)
             self.pwm_R.ChangeDutyCycle(R)
     
     def move(self, L, R):
         if L < 0:
-            GPIO.output(AIN1, GPIO.HIGH)
-            GPIO.output(AIN2, GPIO.LOW)
-        else: 
             GPIO.output(AIN1, GPIO.LOW)
             GPIO.output(AIN2, GPIO.HIGH)
+        else: 
+            GPIO.output(AIN1, GPIO.HIGH)
+            GPIO.output(AIN2, GPIO.LOW)
         
         self.pwm_L.ChangeDutyCycle(abs(L))
 
         if R < 0:
-            GPIO.output(BIN1, GPIO.HIGH)
-            GPIO.output(BIN2, GPIO.LOW)
-        else:    
             GPIO.output(BIN1, GPIO.LOW)
             GPIO.output(BIN2, GPIO.HIGH)
+        else:    
+            GPIO.output(BIN1, GPIO.HIGH)
+            GPIO.output(BIN2, GPIO.LOW)
         
         self.pwm_R.ChangeDutyCycle(abs(R))
 
