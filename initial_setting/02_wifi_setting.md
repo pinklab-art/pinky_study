@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1b5ae723-37fc-4cc2-9038-4f256aaabdde)![image](https://github.com/user-attachments/assets/574a81b4-428e-4dc2-9d5c-2ef41a8674a5)# 2. wifi setting
+# 2. wifi setting
 ## PC에서 pinky_****(영문or숫자 4자리) wifi 연결
 -  wifi 비밀번호는 pinkyedu
 - 본인 로봇에 맞는 와이파이로 연결
