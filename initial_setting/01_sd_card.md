@@ -11,7 +11,7 @@
 
 ## rpi-imager 설치하기
 - 라즈베리파이에 사용할 부팅디스크를 만들 때는 rpi-imager를 사용
-![image](https://github.com/user-attachments/assets/9817f857-6431-4e6f-a6b2-95d581aeac81)
+![image](https://github.com/pinklab-art/pinky_study/blob/main/initial_setting/picture/01_1.png)
 
  
 ## sd카드 리더기를 pc에 연결하고 rpi-imager 실행
