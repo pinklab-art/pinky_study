@@ -48,6 +48,7 @@
 ## SD 카드 준비가 끝나면 로봇에 장착하기
 - 파이캠 거치대 뒤쪽에 카드 슬롯이 있다
 - 금속부분이 위로 가도록 방향 주의
+
 ![Image](https://github.com/pinklab-art/pinky_study/blob/main/picture/initial_setting/01_11.png)
 
 ## 전원 켜기
