@@ -8,7 +8,7 @@
 - IMU센서(05_imu_sensor.ipynb)
 - 파이카메라(06_picam.ipynb)
 ## part2
-### 핑키 라이브러리 익히기
-### 배터리 잔량 확인하기
+### 핑키 라이브러리 익히기(01_pinky_example.ipynb)
+### 배터리 잔량 확인하기(02_battery.ipynb)
 ## part3
 ## part4
