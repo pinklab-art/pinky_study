@@ -5,7 +5,7 @@
 <br>
 
 ## sd 카드 이미지 다운로드
-[- 다운로드](https://drive.google.com/file/d/1xVZ_UWbzQ9o_Vj4pwsUd6oubw6uhWUCH/view)
+[- 다운로드](https://drive.google.com/file/d/1xVZ_UWbzQ9o_Vj4pwsUd6oubw6uhWUCH/view?usp=drive_link)
 <br>
  
 ## rpi-imager 설치하기
