@@ -7,7 +7,7 @@ Pinky 키트에는 다음이 포함되어 있습니다.
 - SD카드
 - SD카드리더기
 - SD카드용 집게
-
+<br>
 
 ## 2. Version Configuration Instructions
 Pinky봇은 세 가지 종류로 나뉩니다. 각 버전별로 부속품이 다르므로 참고하시기 바랍니다.
@@ -43,6 +43,7 @@ Pinky봇은 세 가지 종류로 나뉩니다. 각 버전별로 부속품이 다
 - LiDAR: SLAMTEC RPLiDAR C1
 - LCD: ST7789, 2.4 inch
 - AI 가속기: HAILO 8L
+<br>
 
 ## 3. Power adapter usage specifications
 ### [전원 어댑터 관련 주의사항]
