@@ -1,4 +1,4 @@
-# Welcome to Pinky repository
+# Pinky를 열어보기
 
 ## 1. Unboxing
 Pinky 키트에는 다음이 포함되어 있습니다.
@@ -10,7 +10,7 @@ Pinky 키트에는 다음이 포함되어 있습니다.
 <br>
 
 ## 2. Version Configuration Instructions
-Pinky봇은 세 가지 종류로 나뉩니다. 각 버전별로 부속품이 다르므로 참고하시기 바랍니다.
+Pinky는 세 가지 종류로 나뉩니다. 각 버전별로 부속품이 다르므로 참고하시기 바랍니다.
 
 다음 [품목 목록]은 세 가지 버전의 Pinky에게 공통적으로 적용됩니다.
 
@@ -30,6 +30,9 @@ Pinky봇은 세 가지 종류로 나뉩니다. 각 버전별로 부속품이 다
 - LCD: (없음)
 - AI 가속기: (없음)
 
+![Image](https://github.com/pinklab-art/pinky_study/blob/main/picture/initial_setting/00_1.png)
+<br>
+
 ### [Pinky Violet]
 - 크기 & 무게: 126 x 109 x 145 mm, 675g (LCD 포함)
 - IMU 센서: ICM-20948, 9축
@@ -37,13 +40,19 @@ Pinky봇은 세 가지 종류로 나뉩니다. 각 버전별로 부속품이 다
 - LCD: ST7789, 2.4 inch
 - AI 가속기: (없음)
 
+![Image](https://github.com/pinklab-art/pinky_study/blob/main/picture/initial_setting/00_2.png)
+<br>
+
 ### [Deep Pinky]
 - 크기 & 무게: 126 x 109 x 145 mm, 700g (LCD 포함)
 - IMU 센서: ICM-20948, 9축
 - LiDAR: SLAMTEC RPLiDAR C1
 - LCD: ST7789, 2.4 inch
 - AI 가속기: HAILO 8L
+
+![Image](https://github.com/pinklab-art/pinky_study/blob/main/picture/initial_setting/00_3.png)
 <br>
+
 
 ## 3. Power adapter usage specifications
 ### [전원 어댑터 관련 주의사항]
