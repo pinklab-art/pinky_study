@@ -1,10 +1,10 @@
 # Pinky 커리큘럼
 ## [ch0. 초기 설정](https://github.com/pinklab-art/pinky_study/tree/main/0_initial_setting)
 > blue, violet 공통으로 로봇 사용을 시작할 때 필요한 초기 설정입니다.
-1) 개봉기
-2) sd카드 세팅
-3) 와이파이 설정
-4) 센서 정상 동작 테스트
+0) 개봉기
+1) sd카드 세팅
+2) 와이파이 설정
+3) 센서 정상 동작 테스트
 
 <br>
   
