@@ -1,5 +1,10 @@
 # Pinky 커리큘럼
-## [ch0. 초기 설정(개봉기, sd카드 세팅, 와이파이 설정, 센서 정상 동작 테스트 - blue, violet 공통)](https://github.com/pinklab-art/pinky_study/tree/main/initial_setting)
+## [ch0. 초기 설정](https://github.com/pinklab-art/pinky_study/tree/main/initial_setting)
+> blue, violet 공통으로 로봇 사용을 시작할 때 필요한 초기 설정입니다.
+- 개봉기
+- sd카드 세팅
+- 와이파이 설정
+- 센서 정상 동작 테스트
 ## [ch1. pinky blue 커리큘럼(violet에서도 사용 가능한 커리큘럼)](https://github.com/pinklab-art/pinky_study/tree/main/pinky_blue)
 ![Image](https://github.com/pinklab-art/pinky_study/blob/main/picture/readme/pinky_blue.png)
 ## [ch2. pinky violet 커리큘럼](https://github.com/pinklab-art/pinky_study/tree/main/pinky_violet)
