@@ -1,14 +1,15 @@
 # 0. pinky 열어보기
-## 1. Unboxing
+## 1) Unboxing
 Pinky 키트에는 다음이 포함되어 있습니다.
 - Pinky (로봇) 1대
 - Pinky 충전기
 - SD카드
 - SD카드리더기
 - SD카드용 집게
+
 <br>
 
-## 2. Version Configuration Instructions
+## 2) Version Configuration Instructions
 Pinky는 세 가지 종류로 나뉩니다. 각 버전별로 부속품이 다르므로 참고하시기 바랍니다.
 
 다음 [품목 목록]은 세 가지 버전의 Pinky에게 공통적으로 적용됩니다.
@@ -30,6 +31,7 @@ Pinky는 세 가지 종류로 나뉩니다. 각 버전별로 부속품이 다르
 - AI 가속기: (없음)
 
 ![Image](https://github.com/pinklab-art/pinky_study/blob/main/picture/initial_setting/00_1.png)
+
 <br>
 
 ### [Pinky Violet]
@@ -50,10 +52,11 @@ Pinky는 세 가지 종류로 나뉩니다. 각 버전별로 부속품이 다르
 - AI 가속기: HAILO 8L
 
 ![Image](https://github.com/pinklab-art/pinky_study/blob/main/picture/initial_setting/00_3.png)
+
 <br>
 
 
-## 3. Power adapter usage specifications
+## 3) Power adapter usage specifications
 ### [전원 어댑터 관련 주의사항]
 - 제품의 사용 부하를 초과하는 장치를 연결하는 것은 엄격히 금지되어 있습니다. 제공하지 않은 전원 어댑터를 사용하면 보드가 통채로 타버릴수 있으므로, 조심하시길 바랍니다.
 - 사용 후에는 전원 어댑터를 분리하고, 사람이 없을 때는 전원을 꺼두세요.
