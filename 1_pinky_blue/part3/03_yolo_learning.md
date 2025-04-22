@@ -197,8 +197,3 @@
 ![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/pinky_blue/image66.png)
 
 <br>
-
-##  yolo_test 새로운 파일 생성 후 검증해보기
-![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/pinky_blue/image67.png)
-
-<br>
