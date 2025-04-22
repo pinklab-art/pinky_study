@@ -93,8 +93,3 @@ cam.close() # 카메라 닫기</pre>
 ![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/pinky_blue/image23.png)
 
 <br>
-
-## pinky 폴더 내에 aruco_marker 파일 생성 - 아루코마커 좌표 인식할 파일
-![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/pinky_blue/image22.png)
-
-<br>
