@@ -32,12 +32,30 @@
 
 ## 필요한 모듈 import 및 카메라 설정
  
-![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/pinky_blue/image16.png)
+<pre>from pinkylib import Camera # 카메라 모듈 불러오기
+import cv2 # OpenCV 모듈 불러오기
+
+cam = Camera() # Camera 객체 생성
+cam.start() # 카메라 시작
+
+file_number = 1 # 파일 번호 초기화</pre>
 
 <br>
 
 ## 캡쳐 코드 작성(c 입력 시 캡쳐, q 입력 시 종료)
-![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/pinky_blue/image17.png)
+<pre>while True:
+    cmd = input("c is capture")
+    if cmd == "c":
+        frame = cam.get_frame()
+        cv2.imwrite(f"./calib_img/{file_number}.jpg", frame) # 사진 저장
+        print(f"Saved {file_number}.jpg")
+        cam.display_jupyter(frame) # jupyter notebook에서 사진 확인
+        file_number += 1
+    
+    if cmd == "q":  # q 키를 누르면 종료
+        break
+
+cam.close() # 카메라 닫기</pre>
 
 <br>
 
@@ -52,12 +70,13 @@
 <br>
 
 ## capture.ipynb로 다시 돌아와서 캘리브레이션 함수 실행 
-![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/pinky_blue/image20.png)
+<pre>cam.calibration_camera("./calib_img")</pre>
 
 <br>
 
 ## pinky 폴더 내에 캘리브레이션 파일 생겼는지 확인
 - 생성되지 않았다면 사진촬영부터 다시 실행
+
 ![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/pinky_blue/image21.png)
 
 <br>
