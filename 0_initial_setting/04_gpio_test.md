@@ -1,5 +1,5 @@
 # 4. 로봇 정상동작 테스트 - GPIO test
-## pinky_test 폴더 안에서 New->Python3 파일 생성
+## 로봇의 pinky_test 폴더 안에서 New->Python3 파일 생성
 ![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/initial_setting/02_03/image29.png)
 
 <br>
