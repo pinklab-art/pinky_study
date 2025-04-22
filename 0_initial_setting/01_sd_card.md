@@ -61,7 +61,7 @@
 <br>
 
 ## 전원 켜기
-- 부팅이 완료되면 부저가 울린다
+- 부팅이 완료되면 띠리링~ 부저가 울린다
 ![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/initial_setting/01_12.png)
 
 
