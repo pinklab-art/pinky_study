@@ -20,6 +20,7 @@
 
 ## 정사각형의 너비 측정 - 25mm
 - 따라서 우리는 8X6, 25mm 체커보드 사용
+
 ![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/pinky_blue/image14.png)
 
 <br>
@@ -31,6 +32,7 @@
 <br>
 
 ## 필요한 모듈 import 및 카메라 설정
+- jupyter notebook 셀에서 계속 작성
  
 <pre>from pinkylib import Camera # 카메라 모듈 불러오기
 import cv2 # OpenCV 모듈 불러오기
@@ -43,6 +45,8 @@ file_number = 1 # 파일 번호 초기화</pre>
 <br>
 
 ## 캡쳐 코드 작성(c 입력 시 캡쳐, q 입력 시 종료)
+- jupyter notebook 셀에서 계속 작성
+
 <pre>while True:
     cmd = input("c is capture")
     if cmd == "c":
@@ -70,6 +74,8 @@ cam.close() # 카메라 닫기</pre>
 <br>
 
 ## capture.ipynb로 다시 돌아와서 캘리브레이션 함수 실행 
+- jupyter notebook 셀에서 작성
+
 <pre>cam.calibration_camera("./calib_img")</pre>
 
 <br>
