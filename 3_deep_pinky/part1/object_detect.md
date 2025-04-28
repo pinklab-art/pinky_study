@@ -1,5 +1,16 @@
+# 1. 하일로 보드를 사용한 객체 인식
+## 주의사항
+- 하일로 보드를 VNC로 사용할 경우, 모니터가 연결되지 않은 상태에서는 CPU 사용량이 급격히 증가하여 성능 저하가 발생할 수 있음. 따라서 원활한 사용을 위해 반드시 모니터를 연결한 상태에서 실행하는 것을 권장.
+
+## 환경 세팅
+```bash
+set_hailo
+cd hailo-rpi5-examples/
+```
 ![](https://drive.google.com/uc?export=view&id=1F4YVQfY1ogws25QnHNTTqWRqw3Siqd9F)
 
+
+# 객체 탐지 예제 돌려보기
 ![](https://drive.google.com/uc?export=view&id=1Ey7VuM3A6bGdIvFLJTiFYnfxdpdVQBEi)
 ![](https://drive.google.com/uc?export=view&id=1Gxh-gcp3L6muI6WcU5bB78eZNEJCq6SU)
 ![](https://drive.google.com/uc?export=view&id=1e3KRXyqeNAeA6hQx6QQT4I3iWiVxW6iB)
