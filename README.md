@@ -1,23 +1,41 @@
-# Pinky 커리큘럼
-## [ch0. 초기 설정](https://github.com/pinklab-art/pinky_study/tree/main/0_initial_setting)
-> blue, violet 공통으로 로봇 사용을 시작할 때 필요한 초기 설정입니다.
+# Pinky Pro 소개
 
-[0) 개봉기](https://github.com/pinklab-art/pinky_study/blob/main/0_initial_setting/00_unboxing.md)
-> 
-[1) sd카드 세팅](https://github.com/pinklab-art/pinky_study/blob/main/0_initial_setting/01_sd_card.md)
-
-[2) 와이파이 설정](https://github.com/pinklab-art/pinky_study/blob/main/0_initial_setting/02_wifi_setting.md)
-
-[3) 센서 정작 동작 테스트](https://github.com/pinklab-art/pinky_study/blob/main/0_initial_setting/03_sensor_test.ipynb)
-
-[4) GPIO 테스트](https://github.com/pinklab-art/pinky_study/blob/main/0_initial_setting/04_gpio_test.md)
+<img width="971" height="698" alt="image" src="https://github.com/user-attachments/assets/041ab0f0-545a-4c37-a9d7-4ae0c5d9f57c" />
+<img width="780" height="721" alt="image" src="https://github.com/user-attachments/assets/db587eb8-d453-4fcc-a5b0-3ce6f29b7113" />
 
 <br>
-  
-## [ch1. pinky blue 커리큘럼(violet에서도 사용 가능한 커리큘럼)](https://github.com/pinklab-art/pinky_study/tree/main/1_pinky_blue)
-![Image](https://github.com/pinklab-art/pinky_study/blob/main/picture/readme/pinky_blue.png)
+<br>
+
+
+
+# Pinky Pro 커리큘럼 목차
+
+0. 초기 설정
+> 0. 개봉기
+> 1. sd카드 세팅
+> 2. 와이파이 설정
+> 3. 센서 정상 동작 테스트
+> 4. GPIO 테스트
 
 <br>
 
-## [ch2. pinky violet 커리큘럼](https://github.com/pinklab-art/pinky_study/tree/main/2_pinky_violet)
-![image](https://github.com/pinklab-art/pinky_study/blob/main/picture/readme/pinky_violet.png)
+1. Pinky Pro 커리큘럼
+> 1. part 1
+> > 센서 다루기
+> > > 1. 부저
+> > > 2. 초음파센서
+> > > 3. IR센서
+> > > 4. 모터드라이버
+> > > 5. IMU센서
+> > > 6. 파이카메라
+> > > 7. 배터리 잔량 확인하기
+
+> 2. part 2
+> > 1. 핑키 라이브러리 익히기
+> > 2. 핑키 LCD 사용하기
+
+> 3. part 3
+> > 1. 캘리브레이션
+> > 2. 아루코마커 인식
+> > 3. Yolo 학습하기
+> > 4. Yolo 검증하기
