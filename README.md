@@ -1,3 +1,5 @@
+# [->Pinky 커리큘럼 바로가기](https://github.com/pinklab-art/pinky_study/wiki)
+
 # Pinky Pro 소개
 
 <img width="971" height="698" alt="image" src="https://github.com/user-attachments/assets/041ab0f0-545a-4c37-a9d7-4ae0c5d9f57c" />
