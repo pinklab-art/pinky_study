@@ -1,7 +1,7 @@
-# Pinky를 공부하시는 분들을 위한 커리큘럼
-# [Pinky 커리큘럼 링크](https://github.com/pinklab-art/pinky_study/wiki)
-# Pinky 전용 ChatGPT에게 물어봐주세요~
-# [Pinky 전용 ChatGPT 링크](https://chatgpt.com/g/g-69141c60b0908191975d16ce2421b768-pinky-assistants)
+# 📚 Pinky를 공부하시는 분들을 위한 커리큘럼
+- [Pinky 커리큘럼 링크](https://github.com/pinklab-art/pinky_study/wiki)
+# 💡 Pinky 전용 ChatGPT에게 물어봐주세요~
+- [Pinky 전용 ChatGPT 링크](https://chatgpt.com/g/g-69141c60b0908191975d16ce2421b768-pinky-assistants)
 
 <br>
 <br>
